@@ -1,6 +1,9 @@
 # wasn't told to do anything
 
-
+```
+$ git init
+Initialized empty Git repository in /Users/skills/projects/recipe-repository/.git/
+```
 
 
 
